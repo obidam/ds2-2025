@@ -15,12 +15,12 @@ Please follow instructions from: https://github.com/obidam/ds2-2025/blob/main/pr
 ### Project 5: Ocean warming
  
 Get all the details and a starter notebook here:
-https://github.com/obidam/ds2-2025/blob/main/projects/P5-OceanWarming-for-students.ipynb
+https://github.com/obidam/ds2-2025/blob/main/projects/help/P5-OceanWarming-for-students.ipynb
 
 ### Project 6: Ocean thermal and haline change contributions to Sea Level trends
  
 Get all the details and a starter notebook here:
-https://github.com/obidam/ds2-2025/blob/main/projects/P6-OceanWarmingSeaLEvel-for-students.ipynb
+https://github.com/obidam/ds2-2025/blob/main/projects/help/P6-OceanWarmingSeaLEvel-for-students.ipynb
 
 ## Projects 7 and 8: Future Arctic sea ice change (Arctic) / the Atlantic Multidecadal Oscillation
 
